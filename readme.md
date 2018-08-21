@@ -20,6 +20,8 @@ http://www.informit.com/authors/bio/8ff32343-952d-4c6f-bfa6-f4b757655420
 
 [Swift GG翻译组](http://swift.gg)
 
+[Axel Kee](https://fluffy.es)
+
 [atomic-object Swift](https://spin.atomicobject.com/platforms-languages/swift/)
 
 [we-heart-swift](https://www.weheartswift.com)
@@ -70,6 +72,8 @@ http://www.informit.com/authors/bio/8ff32343-952d-4c6f-bfa6-f4b757655420
 [孙源](http://blog.sunnyxx.com/)
 
 [雷纯锋](http://blog.leichunfeng.com)
+
+[@halfrost](https://github.com/halfrost/Halfrost-Field)
 
 [唐巧](http://www.devtang.com)
 
